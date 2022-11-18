@@ -14,3 +14,22 @@ The notebook is a learning outcome of the student authors' following skills and 
 - setting coordinate reference systems
 - calculating rolling means
 - time series plotting
+
+
+## Packages Utilized
+Here we use:
+- ee
+- geemap (also cartoee from geemap)
+- pandas
+- cartopy
+- matplotlib
+
+
+## How to Run
+For maximal ease of use, please run this tutorial using the Binder instance below:
+
+Coming soon!
+
+
+## Questions?
+Feel free to reach out to any of us if you have any questions or concerns! Contact information is included in the tutorial notebook.
