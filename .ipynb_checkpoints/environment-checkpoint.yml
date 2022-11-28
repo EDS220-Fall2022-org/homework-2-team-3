@@ -1,17 +1,13 @@
-name: HW2_env
+name: fpar_lai_overview_env
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python
-  - numpy
   - matplotlib
   - pandas
   - geopandas
-  - contextily
-  - rasterio
-  - scipy
-  - cartopy
-  - xarray
+  - geemap
+  - ee
   - openblas==0.2.19
   - netcdf4==1.5.1
