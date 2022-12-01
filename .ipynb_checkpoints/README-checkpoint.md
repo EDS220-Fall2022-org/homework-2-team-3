@@ -28,7 +28,7 @@ Here we use:
 ## How to Run
 For maximal ease of use, please run this tutorial using the Binder instance below:
 
-
+launch with myBinder
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-team-3/HEAD)
 
 
