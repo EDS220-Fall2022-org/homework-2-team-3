@@ -9,6 +9,8 @@ MCD15A3H contains data on Fraction of Photosynthetically Active Radiation (FPAR)
 
 We provide starting parameters and examples for students to replicate this analysis in the Chihuahuan Desert.
 
+Please start with the **finalproject_blank.ipynb** file and check your answers with the **finalproject_demo.ipynb** file.
+
 ## Intended Purpose and Important Concepts
 The notebook is a learning outcome of the student authors' following skills and knowledge:
 - data subsetting
